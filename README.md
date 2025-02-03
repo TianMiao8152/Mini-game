@@ -11,3 +11,5 @@
 [2048](https://github.com/gabrielecirulli/2048)
 
 [ONOFF](https://github.com/starzonmyarmz/js13k-2018)
+
+[hextris](https://github.com/Hextris/hextris)
