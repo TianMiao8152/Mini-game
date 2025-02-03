@@ -6,10 +6,12 @@
 
 ---
 
+[A Dark Room](https://github.com/doublespeakgames/adarkroom)
+
 [扫雷](https://gitee.com/wen-muchun/js-games)
 
 [2048](https://github.com/gabrielecirulli/2048)
 
 [ONOFF](https://github.com/starzonmyarmz/js13k-2018)
 
-[hextris](https://github.com/Hextris/hextris)
+[Hextris](https://github.com/Hextris/hextris)
