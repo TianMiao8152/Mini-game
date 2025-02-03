@@ -1,17 +1,18 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #333; /* 修改背景颜色 */
-    color: white; /* 添加文字颜色以便在深色背景下可见 */
+    background-color: #333;
+    color: white;
     margin: 0;
     padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+    flex-direction: column;
 }
 
 .navbar {
-    background-color: #333; /* 保持导航栏背景颜色一致 */
+    background-color: #333;
     color: white;
     padding: 100px;
     display: flex;
@@ -46,5 +47,21 @@ body {
 }
 
 .navbar a:hover {
+    color: #ffcc00;
+}
+
+.footer {
+    margin-top: 20px;
+    text-align: center;
+    color: #ccc;
+}
+
+.footer a {
+    color: blue; /* 将 GitHub 标蓝 */
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footer a:hover {
     color: #ffcc00;
 }
