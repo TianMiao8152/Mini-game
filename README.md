@@ -8,6 +8,8 @@
 
 [A Dark Room](https://github.com/doublespeakgames/adarkroom)
 
+[魂斗罗](https://code.haiyong.site/960/)
+
 [扫雷](https://gitee.com/wen-muchun/js-games)
 
 [2048](https://github.com/gabrielecirulli/2048)
